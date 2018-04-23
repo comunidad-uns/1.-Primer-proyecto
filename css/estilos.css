@@ -59,8 +59,8 @@ ENCABEZADO
 PRESENTACIÓN
 ------------------------------*/
 .presentacion{
-	background: radial-gradient(280px at 25% 10%, #80bff7, #0460ad);
-	border-bottom: 3px solid #044e8b;
+	background: radial-gradient(280px at 25% 10%, #EF9A9A, #F44336);
+	border-bottom: 3px solid #D32F2F;
 }
 .introduccion-presentacion{
 	display: inline-block;
