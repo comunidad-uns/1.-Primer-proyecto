@@ -101,7 +101,10 @@ PRESENTACIÓN
 	0 0 25px 5px #fff;
 }
 a.aprender-mas:hover{
-	background: linear-gradient(to top, #319b41, #42FF7B);
+	background: linear-gradient(to top, #FF9100, #FF9100);
+	box-shadow: 0 8px 0 0 #FF6F00,
+	0 0 25px 5px #FFF59D;
+	border: 1px solid #F57F17;
 }
 /*-------------------------------------------
 ACCESO RÁPIDO
