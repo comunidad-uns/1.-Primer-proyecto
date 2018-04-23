@@ -96,8 +96,8 @@ PRESENTACIÓN
 	text-align: center;
 	text-shadow: 1px 1px 0 #000;
 	color: #fff;
-	background: linear-gradient(to top, #319b41, #21c653);
-	box-shadow: 0 8px 0 0 #20732f,
+	background: linear-gradient(to top, #26A69A, #26A69A);
+	box-shadow: 0 8px 0 0 #00897B,
 	0 0 25px 5px #fff;
 }
 a.aprender-mas:hover{
@@ -107,7 +107,7 @@ a.aprender-mas:hover{
 ACCESO RÁPIDO
 -------------------------------------------*/
 .acceso-rapido{
-	background: #21bc4e;
+	background: #26A69A;
 	overflow: hidden;
 	border-bottom: 3px solid #1c943f;
 }
